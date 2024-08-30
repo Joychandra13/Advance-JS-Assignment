@@ -1,0 +1,12 @@
+.bg-image {
+    background-image: url('https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+.firstdiv{
+    background-image: url('https://images.pexels.com/photos/1587442/pexels-photo-1587442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: center;
+    background-size: cover;
+}
